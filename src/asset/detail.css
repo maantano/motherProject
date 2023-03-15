@@ -1,0 +1,3510 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (max-width: 1920px) {
+  #main .fullpage .section.sec1 .txt h2 {
+    font-size: 55px;
+  }
+  #main .fullpage .section.sec1 .txt p {
+    font-size: 24px;
+    line-height: 30px;
+    padding: 20px 0 30px;
+  }
+  #main .fullpage .section.sec1 .select_bt a {
+    padding: 100px 30px 20px 30px;
+    box-sizing: border-box;
+    background-position: center 18px !important;
+  }
+
+  #main .fullpage .section.sc .size .wrap {
+    /* padding-top: 100px; */
+    padding-top: 23%;
+  }
+  #main .fullpage .section .con_bt {
+    padding-top: 25px;
+  }
+  #main .down_bt a {
+    background-size: 35px;
+    height: 55px;
+  }
+  #main .fullpage .section .txt h3 {
+    font-size: 37px;
+    line-height: 58px;
+  }
+  #main .fullpage .section .txt span {
+    padding-top: 10px;
+  }
+  #main .fullpage .section .txt a.total_service-link {
+    font-size: 37px;
+    line-height: 58px;
+  }
+  #main .fullpage .section.sec6 .program_bt ul li a .txt .info {
+    padding-top: 10px;
+  }
+  #main .fullpage .section .program_bt ul li a .txt {
+    padding: 15px;
+  }
+  #main .fullpage .sec6 .program_bt ul li a .img > p img {
+    width: 80%;
+  }
+  #main .fullpage .section.sc.sec7 .size .wrap.clear {
+    padding-top: 0;
+  }
+}
+
+@media (max-width: 1136px) {
+  #sub.vtraining_info
+    table.table_home
+    thead
+    tr
+    th
+    #sub.welcome
+    .intro
+    ul
+    li.txt {
+    padding: 55px 35px 45px;
+  }
+  #sub.welcome .size .txt > p br {
+    display: none;
+  }
+
+  #main .fullpage .section.sec1 .select_bt a {
+    min-width: 275px;
+  }
+  #sub.com_intro .txt p br {
+    display: none;
+  }
+}
+
+@media (max-width: 1024px) {
+  /* #main .quick.left{position: fixed;left: 10px;top: 10%;} */
+  #main .quick.left {
+    position: fixed;
+    left: 10px; /*z-index: 90;*/
+    bottom: 90%;
+  }
+  #main .quick.left ul {
+  }
+  #main .quick.left ul li {
+    margin-bottom: 15px;
+    background: rgba(0, 103, 56, 0.85);
+    width: 95px;
+    height: 76px;
+    border-radius: 10px;
+    display: table;
+  }
+  #main .quick.left ul li a {
+    display: table;
+    padding: 0;
+    display: table-cell;
+    vertical-align: middle;
+  }
+  #main .quick.left ul li a img {
+    display: table-cell;
+    margin: 0 auto;
+    padding-bottom: 5px;
+  }
+  #main .quick.left ul li a span {
+    /* display: none; */
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+    font-weight: 400;
+    letter-spacing: -0.8px;
+    word-break: keep-all;
+  }
+
+  #header.main .inner .gnb {
+    display: none;
+  }
+  #header.main .inner .top .logo {
+    display: none;
+  }
+  #header.main .inner .top .left a {
+    display: none;
+  }
+  #header.main .inner .top .mo {
+    display: inline-block !important;
+  }
+  #header.main .inner .top {
+    height: 65px;
+    background: #fff;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  }
+
+  #header.main .inner .top .mo.logo {
+    padding-top: 0;
+    line-height: 65px;
+  }
+  #header.main .inner .top .mo.logo img {
+    max-height: 50px;
+  }
+  #header.main .inner .top .mo.mo_all {
+    /* background: url("/img/mo_all.png") no-repeat center center; */
+    background-size: 80%;
+    width: 40px;
+    height: 40px;
+  }
+  #header.main .inner .top .left {
+    top: 50%;
+    margin-top: -20px;
+    left: 20px;
+    line-height: 1;
+  }
+  #header.main .inner .top .right .util a {
+    display: none;
+  }
+  #header.main .inner .top .right .util a.mo.call {
+    /* background: url("/img/mo_call.png") no-repeat center center; */
+    background-size: 80%;
+    width: 40px;
+    height: 40px;
+  }
+  #header.main .inner .top .right {
+    top: 50%;
+    margin-top: -20px;
+    right: 20px;
+  }
+  #fp-nav {
+    display: none;
+  }
+
+  .depth3 {
+    display: none;
+  }
+
+  #header.main {
+    position: fixed;
+  }
+  #sub {
+    margin-top: 65px;
+    position: relative;
+  }
+  #sub .size {
+    padding: 0 20px;
+  }
+  .sub_visual .slogun {
+    padding-top: 55px;
+    padding-bottom: 0;
+  }
+  .m_sub_tab {
+    display: block;
+  }
+
+  #sub h2.sub_title {
+    padding: 60px 0 40px;
+    line-height: 45px;
+  }
+  #sub h2.sub_title .mbr {
+    display: block;
+  }
+  #sub h2.sub_title.life .mbr {
+    display: inline;
+  }
+  #sub h2.sub_title.life .br {
+    display: block;
+  }
+
+  #sub.intro .sec3 .tb .tbc > p {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  #sub.intro .sec3 .tb {
+    height: 200px;
+  }
+
+  #sub.intro .info_table ul li {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  #sub.intro .info_table ul {
+    width: 100%;
+    margin-left: 0;
+  }
+  #sub.partnership .info .partner_info {
+    padding-top: 20px;
+  }
+  #sub.intro .info_table ul li div .img .pic {
+    background-size: contain;
+  }
+
+  #sub.partnership .info .partner_info > p {
+    font-size: 35px;
+    line-height: 39px;
+    padding: 35px 20px;
+  }
+
+  #sub.care_manage .info_table ul li .txt {
+    min-height: 240px;
+  }
+
+  #footer .top .size .left,
+  #footer .top .size .left {
+    float: none;
+    min-width: auto;
+  }
+  #footer .top .size .left p > b {
+    position: relative;
+    display: block;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  #footer .top .size .left span {
+    padding-left: 0;
+    display: block;
+    float: none;
+    text-align: center;
+  }
+  #footer .top .size .left span.num {
+    padding-bottom: 20px;
+    font-size: 20px;
+  }
+  #footer .top .size .left.time span {
+    padding-left: 0;
+    text-align: center;
+    font-size: 14px;
+  }
+  #footer .top .size .sns {
+    position: relative;
+    top: 0;
+    margin-top: 20px;
+  }
+  #footer .top .size .sns a {
+    /* background: #fff url("/img/m_blog.png") no-repeat center center; */
+    border-radius: 50%;
+    margin-left: 10px;
+    background-size: 60%;
+    display: inline-block;
+    float: none;
+  }
+  #footer .top .size .sns a:first-child {
+    /* background: #fff url("/img/m_facebook.png") no-repeat center center; */
+    margin-left: 0;
+    background-size: 30%;
+  }
+
+  #footer .info .size .inner {
+    padding-left: 0;
+    background-position: center top;
+    padding-top: 50px;
+  }
+  #footer .info .size .inner > b {
+    display: block;
+    text-align: center;
+    font-size: 16px;
+  }
+  #footer .info .size .inner p {
+    text-align: center;
+  }
+  #footer .info .size .inner p .mbr {
+    display: block;
+  }
+  #footer .info .size .inner > .copy {
+    display: block;
+    text-align: center;
+  }
+
+  #footer .info .size .inner .util {
+    position: relative;
+    max-width: 360px;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  #footer .info .size .inner .util a {
+    border: 1px solid #858585;
+    height: 40px;
+    line-height: 40px;
+    padding: 0;
+    text-align: center;
+    width: 48%;
+  }
+  #footer .info .size .inner .util a:first-child {
+    padding: 0;
+    margin-right: 4%;
+  }
+  #footer .info .size .inner .util a:first-child:after {
+    display: none;
+  }
+  #footer .size {
+    padding: 0 20px;
+  }
+
+  #footer .top .size .left span {
+    font-size: 25px;
+  }
+  #footer .top,
+  #footer .info {
+    padding: 15px 0;
+  }
+  #footer .info .size .inner > p span,
+  #footer .info .size .inner .util a {
+    font-size: 13px;
+  }
+  #footer .info .size .inner > .copy {
+    font-size: 11px;
+  }
+  #footer .top .size .sns a {
+    width: 30px;
+    height: 30px;
+  }
+
+  #main .fullpage .section.sec1 .txt h2 {
+    font-size: 45px;
+  }
+  #main .fullpage .section.sec1 .txt p {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  #main .fullpage .section.sec1 .select_bt a p b {
+    font-size: 25px;
+  }
+
+  #sub .step ul > li .con .tb p {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  #sub .step ul > li .con .tb span.num {
+    width: 30px;
+    height: 30px;
+    line-height: 32px;
+    font-size: 14px;
+  }
+  #sub .step ul > li .con:before {
+    left: -15px;
+  }
+  #sub .step ul > li p.detail_first {
+    font-size: 13px;
+    letter-spacing: -1.6px;
+  }
+  #sub .step ul > li p.detail {
+    font-size: 13px;
+    letter-spacing: -1.6px;
+  }
+  #sub.welcome .sub_wrap .size {
+    padding: 65px 20px 125px 20px;
+  }
+  #sub.welcome .intro ul li.txt p br {
+    display: none;
+  }
+
+  #sub.welcome .intro ul li.txt p:first-child {
+    font-size: 32px;
+  }
+  #sub.welcome .intro ul li.txt p:first-child b {
+    font-size: 28px;
+    line-height: 32px;
+    word-break: keep-all;
+  }
+
+  #sub.use .sec3 table.table_form tbody tr th,
+  #sub.use .sec3 table.table_form tbody tr td {
+    font-size: 16px;
+  }
+
+  #main .fullpage .section.sec1 .wrap {
+    padding-top: 65px;
+  }
+
+  #main .fullpage .section.sec1 .select_bt {
+    width: 102%;
+    margin-left: -2%;
+  }
+  #main .fullpage .section.sec1 .select_bt a {
+    float: left;
+    width: 31%;
+    min-width: inherit;
+    margin-right: 0;
+    padding: 90px 15px 15px 15px;
+    margin-left: 2%;
+    background-position: center 20px;
+    background-size: 55px;
+  }
+  #main .size {
+    padding: 0 20px;
+  }
+  #main .fullpage .section.sec1 .select_bt a p b {
+    font-size: 20px;
+    padding-top: 20px;
+  }
+  #main .fullpage .section.sec1 .select_bt a p span {
+    font-size: 15px;
+    line-height: 20px;
+  }
+  #main .fullpage .section.sec1 .select_bt a p span .mbr {
+    display: block;
+  }
+  #main .fullpage .section.sec1 .select_bt {
+    display: block;
+  }
+
+  #main .fullpage .section .txt h3 {
+    font-size: 38px;
+  }
+  #main .fullpage .section .txt a.total_service-link {
+    font-size: 38px;
+  }
+  #main .fullpage .section .txt span {
+    font-size: 16px;
+  }
+  #main .fullpage .section .con_bt ul li .tb .tbc p {
+    font-size: 17px;
+  }
+
+  #sub.value .sec3 .list ul li {
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+  #sub.value .sec3 .list ul li .tb .tbc p {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  #sub.value .sec3 .list ul li .tb {
+    min-height: 140px;
+  }
+
+  #sub.value .sec4 .list ul li .img p {
+    font-size: 20px;
+  }
+  #sub.value .sec4 .list ul li .txt p {
+    font-size: 15px;
+    line-height: 20px;
+  }
+  #sub .y_txt .list {
+    padding: 10px 15px;
+  }
+  #sub .y_txt .list ul li {
+    font-size: 17px;
+  }
+
+  #sub.life .sec1 .step > ul > li .con .tb span.num {
+    width: 60px;
+    height: 60px;
+  }
+  #sub.life .sec1 .step > ul > li .con .tb span.num em {
+    font-size: 13px;
+    padding-top: 11px;
+  }
+
+  #sub.life .sec1 .step > ul > li .con .tb span.num em b {
+    font-size: 25px;
+  }
+  #sub .step ul > li .con .tb p img {
+    max-width: 60px;
+    max-height: 60px;
+  }
+  #sub.life .sec1 .step > ul > li .detail b {
+    font-size: 18px;
+    padding-bottom: 10px;
+  }
+
+  #sub.welcome .size .info_table img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 860px) {
+  .consulting_list table tbody tr th {
+    width: 100%;
+    float: left;
+    text-align: left;
+  }
+  .consulting_list table tbody tr td {
+    width: 100%;
+    float: left;
+    text-align: left; /*padding-left:140px;*/
+  }
+  .consulting_list thead {
+    display: none;
+  }
+
+  #sub.consulting .consulting_list table tbody tr td:first-child {
+    display: none;
+  }
+  #sub.consulting .consulting_list table tbody tr td.conTitle {
+    width: 100%;
+  }
+  #sub.consulting .consulting_list table {
+    table-layout: auto;
+  }
+  #sub.consulting .consulting_list table tbody tr td.conTitle p {
+    white-space: inherit;
+    line-height: 21px;
+    overflow: visible;
+    text-overflow: inherit;
+  }
+  #sub.consulting .consulting_list table tbody tr.view_tr .title {
+    line-height: 21px;
+  }
+  #sub.consulting .consulting_list table tbody tr td {
+    line-height: 1;
+    text-align: left;
+    padding: 5px;
+  }
+  #sub.consulting .consulting_list table tbody tr td .m_txt {
+    display: inline-block;
+  }
+  #sub.consulting .consulting_list table tbody tr td.type {
+    padding-top: 15px;
+  }
+  #sub.consulting .consulting_list table tbody tr td.result {
+    padding-bottom: 15px;
+  }
+
+  #sub.consulting .consulting_list table tbody tr.view_tr td {
+    padding: 5px 15px;
+  }
+  #sub.consulting .consulting_list table tbody tr.view_tr td.none {
+    display: none;
+  }
+
+  #sub.consulting .consulting_list table tbody tr.view_tr td.date {
+    padding-bottom: 15px;
+  }
+  #sub.consulting .consulting_list table tbody tr.view_tr .title {
+    padding-top: 15px;
+  }
+  #main .fullpage .section.sec3 {
+    background-position: 93% center;
+  }
+  #main .fullpage .section.sec4,
+  #main .fullpage .section.sec6 {
+    background-position: 75% center;
+  }
+
+  #sub.visit_info .inner_table tbody tr td {
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 400;
+    padding: 5px;
+  }
+  #sub.visit_info .inner_table thead tr th {
+    font-size: 16px;
+  }
+
+  .detail ul li {
+    padding-left: 0;
+  }
+  .detail ul li:before {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  #sub.facility .vr a .tit p:after {
+    right: 28%;
+  }
+  #sub.facility .vr a .tit span {
+    font-size: 30px;
+  }
+  #sub.facility .vr a .tit p {
+    font-size: 30px;
+  }
+  #sub h2.sub_title {
+    font-size: 30px;
+    line-height: 35px;
+  }
+  #sub.value .sec p.sec_title {
+    font-size: 30px;
+    line-height: 35px;
+  }
+
+  #sub.center_info .sec2 > img {
+    max-height: 200px;
+  }
+  #sub.center_info .sec2 ul li p {
+    font-size: 16px;
+  }
+  #sub.center_info .sec2 ul li span {
+    height: 70px;
+  }
+  #sub.center_info .sec2 ul li span img {
+    max-height: 70px;
+  }
+  #sub.center_info .sec2 .tb {
+    height: 150px;
+  }
+  #sub.center_info .info_table ul li {
+    width: 100%;
+    margin-left: 0;
+  }
+  #sub.center_info .sec3 ul li:first-child {
+    margin-bottom: 80px;
+  }
+  #sub.center_info .info_table .arrow {
+    max-height: 60px;
+    margin-left: -30px;
+    -ms-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+  #sub .info_table ul li > span,
+  #sub.center_info .sec4 > ul > li .info span {
+    font-size: 17px;
+  }
+  #sub .info_table ul li div > p,
+  #sub.center_info .sec4 ul li .info .list ul li {
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    line-height: 21px !important;
+  }
+  #sub.center_info .info_table ul li div {
+    min-height: inherit;
+  }
+
+  #sub table.table_form tbody tr th,
+  #sub.center_info .sec5 table thead tr th,
+  #sub table.table_form tbody tr td {
+    font-size: 15px;
+  }
+  #sub.center_info .sec5 table thead tr th span {
+    font-weight: 400;
+  }
+  #sub.vtraining_info .table_form tbody tr td {
+    padding: 10px 15px;
+  }
+  #sub.vtraining_info .table_form tbody tr td span {
+    font-size: 15px;
+    padding-bottom: 10px;
+  }
+
+  .sub_visual .slogun .title p b {
+    font-size: 30px;
+  }
+  .sub_visual .slogun .title p span {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .sub_visual .slogun {
+    height: 180px;
+  }
+  #sub .info_table ul li > span {
+    width: 70%;
+  }
+  #sub h3.sub_t {
+    font-size: 26px;
+  }
+  #sub.visit_pro p.pro_info {
+    padding: 20px 0 10px;
+  }
+
+  #sub.use .sec1 table tbody tr td {
+    padding: 15px;
+  }
+
+  #sub.use .sec1 table tbody tr td > p:before {
+    top: 6px;
+  }
+  #sub .info_table ul li div > p:before {
+    top: 6px;
+  }
+  #sub.use .sec2 {
+    padding-top: 30px;
+  }
+  #sub .partner_list ul li {
+    width: 31.333%;
+    margin-left: 2%;
+    margin-top: 2%;
+  }
+  #sub .partner_list ul {
+    width: 102%;
+    margin-left: -2%;
+    margin-top: -2%;
+  }
+  #sub.intro .sec3 .tb .tbc > p .mbr {
+    display: block;
+  }
+  #sub.intro .sec3 .tb .tbc > p {
+    font-size: 24px;
+  }
+  #sub.intro .info_table ul li div .txt .info {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+  }
+  #sub.intro .info_table ul li div .img {
+    float: none;
+    width: 100%;
+    margin-left: 0 !important;
+    min-width: inherit;
+  }
+  #sub.intro .info_table ul li div .img p img {
+    max-height: 200px;
+  }
+
+  #sub.intro .info_table ul li > span {
+    margin: 0;
+  }
+  #sub.intro.vtraining_intro .info_table ul li > span {
+    margin: 0 auto;
+  }
+  #sub.intro .info_table ul li > div {
+    padding: 20px 15px 0;
+  }
+  #map {
+    height: 400px;
+  }
+  #sub .address p {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+  }
+  #sub .sub_wrap {
+    min-height: 600px;
+  }
+  #sub.company .sec1 {
+    padding-top: 30px;
+  }
+  #sub.partnership .info p.logo img {
+    max-height: 150px;
+  }
+  #sub.type .c_txt {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+
+  #sub.type .sec1 .info_wrap .info.y_txt .list {
+    min-height: 142px;
+  }
+  #sub.partnership .info .partner_info > p {
+    font-size: 25px;
+    line-height: 29px;
+    padding: 30px 20px;
+  }
+  #sub.partnership .info .partner_info > p:after {
+    border-top: 30px solid #206d43;
+    left: 50%;
+    bottom: -60px;
+    margin-left: -30px;
+    content: "";
+    position: absolute;
+    border-right: 30px solid transparent;
+    border-bottom: 30px solid transparent;
+    border-left: 30px solid transparent;
+  }
+  #sub p.pro_info {
+    font-size: 18px !important;
+    line-height: 22px !important;
+  }
+  #sub p.pro_info br {
+    display: none;
+  }
+  #sub.type .sec .pro_info.small {
+    font-size: 16px !important;
+    line-height: 21px !important;
+  }
+  #sub.daycare table thead tr th {
+    font-size: 16px;
+  }
+  #sub.daycare table tbody tr td {
+    font-size: 15px;
+  }
+  #sub.care_manage .sec1 ul li b {
+    font-size: 18px;
+  }
+  #sub.care_manage .sec1 ul li p {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+  }
+  #sub.care_manage .info_table ul li > span,
+  #sub.care_manage .info_table ul li > span em {
+    font-size: 16px;
+  }
+  #sub.care_manage .info_table ul li .txt {
+    padding: 30px 20px;
+    min-height: auto;
+  }
+  #sub.care_manage .info_table ul li:first-child .txt,
+  #sub.care_manage .info_table ul li:nth-child(2) .txt {
+    min-height: 170px;
+  }
+  #sub.care_manage .info_table ul li {
+    width: 48%;
+  }
+  #sub.care_manage .info_table ul li > span {
+    height: 50px;
+    line-height: 50px;
+  }
+  #sub.care_manage .info_table ul li:first-child {
+    margin-bottom: 0;
+  }
+  #sub.pro .list_wrap ul li a dl dd.title {
+    font-size: 16px;
+    line-height: 21px;
+    height: 42px;
+    margin: 10px 0;
+  }
+  #sub.pro .list_wrap ul li a dl dd.date {
+    font-size: 14px;
+    padding: 10px 0;
+  }
+  #sub.pro .list_wrap ul li a dl dt.img .hover {
+    font-size: 18px;
+  }
+  #sub.pro .list_wrap ul li a dl dt.img .hover span {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin-top: 10px;
+  }
+  #sub.pro.review .list_wrap ul li a dl dd.name,
+  #sub.pro.review .list_wrap ul li a dl dd.age {
+    font-size: 16px;
+    padding: 10px 0;
+  }
+  #sub.pro.review .list_wrap ul li a dl dd.info span {
+    font-size: 16px;
+    padding: 10px 0 10px 10px;
+  }
+  #sub.pro.review .list_wrap ul li a dl dd.info span:first-child {
+    padding-right: 10px;
+  }
+
+  #sub.care_view .review_wrap .info .txt > p {
+    font-size: 20px;
+    line-height: 24px;
+  }
+
+  #sub.care_view .review_wrap .info ul li:first-child {
+    width: 40%;
+  }
+  #sub.care_view .review_wrap .info ul li {
+    width: 60%;
+  }
+  #sub.care_view .review_wrap .info .txt {
+    padding: 25px;
+  }
+  #sub.care_view .review_wrap .info .txt .sub_txt p span:first-child,
+  #sub.care_view .review_wrap .info .txt .sub_txt p span {
+    font-size: 20px;
+  }
+  #sub.care_view .review_wrap .info .txt .sub_txt {
+    padding-top: 20px;
+  }
+  #sub.care_view .review_wrap .info .txt > p {
+    padding-bottom: 20px;
+  }
+  #sub.care_view .review_wrap .info .txt .sub_txt p span em {
+    font-size: 16px;
+  }
+
+  #sub.visiting_intro .sec1 ul li .txt .tb .tbc p br {
+    display: none;
+  }
+  #sub.visiting_intro .info_table ul li div {
+    padding-bottom: 0;
+  }
+  #main .fullpage .section.sec1 .txt {
+    padding: 20px 0;
+  }
+  #main .fullpage .section.sec1 .txt h2 {
+    font-size: 30px;
+  }
+  #main .fullpage .section.sec1 .txt p {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  #main .fullpage .section.sec1 .select_bt a p b {
+    font-size: 18px;
+    padding-top: 0;
+  }
+  #main .fullpage .section.sec1 .select_bt a p span {
+    font-size: 13px;
+    line-height: 18px;
+  }
+
+  #main .fullpage .section.sec1 .select_bt a {
+    background-size: 50px 50px !important;
+  }
+
+  #sub.com_intro .txt p {
+    font-size: 16px;
+    line-height: 21px;
+    padding-bottom: 20px;
+  }
+
+  .sub_visual .slogun .title p b em {
+    display: block;
+  }
+  #sub.center_info .sec5 table tbody tr td > p {
+    line-height: 15px;
+  }
+  #sub.center_info .sec5 table tbody tr td > p .mbr {
+    display: block;
+  }
+  #sub .step ul {
+    width: 105%;
+    margin-left: -5%;
+    margin-top: -4%;
+  }
+  #sub .step ul > li {
+    width: 28.3% !important;
+    margin-left: 5% !important;
+    margin-top: 4% !important;
+  }
+  /*	#sub .step ul > li p.detail{min-height: 63px;}*/
+  #sub.visiting_intro .step ul > li p.detail {
+    min-height: 85px;
+  }
+
+  #sub .step ul > li:nth-child(4) {
+    clear: both;
+  }
+  #sub .step ul > li:nth-child(4) .con:before {
+    display: none;
+  }
+  #sub .step ul > li .con .tb span.num {
+    width: 35px;
+    height: 35px;
+    line-height: 37px;
+  }
+  #sub .step ul > li .con {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+  #sub .step ul > li .con:before {
+    left: -25%;
+  }
+
+  #sub .slide .swiper_em .swiper-slide > span {
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+  }
+  #sub .slide .swiper_em .swiper-slide {
+    height: 400px;
+  }
+  #sub.life .step ul > li:nth-child(5) .con:before {
+    display: block;
+  }
+  #sub.life .step ul > li:nth-child(7) .con:before {
+    display: none;
+  }
+
+  #sub.welcome .intro ul li.txt {
+    padding: 30px 20px;
+  }
+  #sub.welcome .intro ul li.txt p:first-child {
+    font-size: 28px;
+  }
+  #sub.welcome .intro ul li.txt p:first-child b {
+    font-size: 25px;
+    line-height: 25px;
+    padding-top: 10px;
+  }
+  #sub.welcome .intro ul li.txt p {
+    font-size: 16px;
+    line-height: 20px;
+    padding-top: 50px;
+  }
+
+  #sub.welcome .intro ul li {
+    width: 100%;
+  }
+  #sub.welcome .intro ul li > p img {
+    height: auto;
+  }
+  #sub.welcome .size .txt > p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    padding-bottom: 20px;
+  }
+  #sub.welcome .size .ceo_sign {
+    font-size: 16px;
+  }
+  #sub.welcome .sub_wrap .size {
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+
+  #sub.welcome .size .ceo_sign img {
+    max-height: 30px;
+  }
+  #sub.welcome .size .ceo_sign {
+    padding-top: 20px;
+  }
+
+  .mo_allMenu .all_top a {
+    font-size: 16px;
+  }
+  .mo_allMenu .all_top .m_close {
+    background-size: 35%;
+    width: 55px;
+  }
+  .mo_allMenu .mo_inner {
+    width: calc(100% - 55px);
+  }
+  .mo_allMenu .mgnb .m_depth1 > li > a,
+  .mo_allMenu .mgnb .m_depth2 > li > a {
+    font-size: 18px;
+    height: 45px;
+    line-height: 45px;
+  }
+  .mo_allMenu .mgnb .m_depth1 > li > a:after,
+  .mo_allMenu .mgnb .m_depth1 > li > a.on:after {
+    height: 45px;
+    background-size: 30%;
+  }
+  #header.main .inner .top .mo.mo_all,
+  #header.main .inner .top .right .util a.mo.call {
+    background-size: 65%;
+  }
+  #header.main .inner .top .mo.logo img {
+    max-height: 45px;
+  }
+  .m_sub_tab .m_sub_depth > a {
+    font-size: 16px;
+    line-height: 50px;
+    height: 50px;
+    padding: 0 25px 0 10px;
+    box-sizing: border-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .m_sub_tab .m_sub_depth > ul > li > a {
+    padding: 0 10px;
+  }
+  .m_sub_tab .m_sub_depth > a:after {
+    width: 35px;
+    height: 50px;
+  }
+  .m_sub_tab .m_sub_depth > ul > li > a {
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+  }
+
+  #sub.day_support .sec1 ul li {
+    padding: 25px 10px;
+  }
+  #sub.day_support .sec1 ul li i {
+    font-size: 25px;
+    padding-bottom: 5px;
+  }
+  #sub.day_support .sec1 ul li .tb {
+    height: 110px;
+  }
+  #sub.day_support .sec1 ul li p.txt .mbr {
+    display: block;
+  }
+  #sub.day_support .sec1 ul li p.txt {
+    font-size: 17px;
+    line-height: 21px;
+  }
+  #sub.day_support .sec1 ul li img {
+    max-height: 70px;
+    max-width: 90px;
+  }
+
+  #sub.use .sec3 table.table_form thead tr th {
+    font-size: 16px;
+  }
+  #sub.use .sec3 table.table_form tbody tr th {
+    line-height: 21px;
+    padding: 10px 5px;
+    box-sizing: border-box;
+  }
+  #sub.use .sec3 table.table_form tbody tr th .mbr {
+    display: block;
+  }
+  #sub.use .sec3 table.table_form tbody tr th,
+  #sub.use .sec3 table.table_form tbody tr td {
+    font-size: 14px;
+  }
+
+  #main .fullpage .section .txt h3 {
+    font-size: 30px;
+    line-height: 50px;
+  }
+  #main .fullpage .section .txt span {
+    font-size: 14px;
+    padding-top: 10px;
+  }
+  #main .fullpage .section .txt h3:after {
+    height: 1px;
+  }
+  #main .fullpage .section .txt a.total_service-link {
+    font-size: 30px;
+    line-height: 50px;
+    margin-bottom: 0;
+  }
+  #main .fullpage .section .con_bt ul li .tb .tbc > img {
+    max-height: 30px;
+    max-width: 40px;
+  }
+  #main .fullpage .section .con_bt ul li .tb .tbc p {
+    font-size: 13px;
+    padding-top: 15px;
+  }
+
+  #main .fullpage .section.sec2 {
+    background-position: 25% center;
+  }
+  #main .fullpage .section .program_bt ul li a .txt {
+    padding: 10px;
+  }
+  #main .fullpage .section .program_bt ul li a .txt p {
+    font-size: 16px;
+  }
+  #main .fullpage .section .program_bt ul li a .txt i {
+    right: 10px;
+    bottom: 10px;
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
+  }
+  #main .fullpage .section .program_bt ul li a .txt i img {
+    max-height: 8px;
+  }
+  #main .fullpage .section .program_bt ul li a .txt span {
+    padding-top: 10px;
+    font-size: 12px;
+  }
+  #main .fullpage .section.sec6 .wrap .txt .subject a span {
+    font-size: 15px;
+  }
+  #main .fullpage .section.sec6 .program_bt ul li .txt p {
+    line-height: 21px;
+    font-size: 16px;
+    height: 42px;
+  }
+
+  #main .fullpage .section.sec7 .size .program_list .wrap .notice {
+    float: none;
+    width: 100%;
+    margin-right: 0;
+    padding: 15px;
+  }
+  #main .fullpage .section.sec7 .size .program_list .wrap .notice .more span {
+    font-size: 18px;
+  }
+  #main .fullpage .section.sec7 .size .program_list .wrap .notice .list {
+    padding-top: 18px;
+  }
+  #main .fullpage .section.sec7 .size .program_list .wrap .notice .list a p,
+  #main
+    .fullpage
+    .section.sec7
+    .size
+    .program_list
+    .wrap
+    .notice
+    .list
+    a
+    p
+    span {
+    font-size: 14px;
+    line-height: 1;
+  }
+  #main .fullpage .section.sec7 .size .program_list .wrap .notice .list a {
+    padding-top: 10px;
+  }
+
+  #main .fullpage .section.sec7 .size .program_list .wrap .bt {
+    margin-top: 1%;
+    width: 49.5%;
+  }
+  #main .fullpage .section.sec7 .size .program_list .wrap .bt.faq {
+    margin-right: 1%;
+  }
+  #main .fullpage .section.sec7 .size .program_list .wrap .bt .img img {
+    max-width: 40px;
+    max-height: 40px;
+  }
+  #main .fullpage .section.sec7 .size .program_list .wrap .bt .tb .tbc > p {
+    padding-top: 15px;
+    font-size: 16px;
+  }
+  #main .fullpage .section.sec7 .size .program_list .wrap .bt .tb {
+    height: 125px;
+  }
+  #sub.welcome .intro ul li > p:first-child {
+    height: auto;
+  }
+
+  #sub.value .sec1 {
+    padding: 20px 0;
+  }
+  #sub.value .sec1 {
+    margin-bottom: 50px;
+  }
+  #sub.value .sec2 > span {
+    font-size: 18px;
+  }
+  #sub.value .sec2 .list ul li .tb .tbc p {
+    font-size: 17px;
+    padding-top: 10px;
+    line-height: 22px;
+  }
+  #sub.value .sec2 .list ul li .tb {
+    width: 90%;
+  }
+  #sub.value .sec1 .size p {
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 400;
+  }
+  #sub.value .sec2 .list ul li .tb .tbc span {
+    font-size: 30px;
+    line-height: 38px;
+  }
+  #sub.value .sec2 .list {
+    padding: 100px 10px 45px;
+  }
+  #sub.value .sec1 .size p br {
+    display: none;
+  }
+
+  #sub.value .sec {
+    margin-bottom: 50px;
+  }
+  #sub.value .sec3 .list ul li span {
+    width: 60px;
+    height: 60px;
+    margin-left: -30px;
+    font-size: 25px;
+    line-height: 90px;
+  }
+  #sub.value .sec3 .list ul li .tb .tbc p {
+    font-size: 15px;
+    line-height: 20px;
+  }
+  #sub.value .sec3 .list ul li .tb {
+    min-height: 120px;
+  }
+
+  #sub.value .sec4 .list ul li {
+    width: 48%;
+    margin-top: 4%;
+  }
+  #sub.value .sec4 .list ul {
+    margin-top: -4%;
+  }
+  #sub.value .sec4 .list ul li .img img {
+    max-height: 60px;
+  }
+  #sub.value .sec4 .list ul li .img p {
+    font-size: 17px;
+  }
+  #sub.value .sec4 .list ul li .img .tb {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  #sub.positioning .sec1 .txt p {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  #sub.brand .sec1 > p {
+    font-size: 25px;
+    padding-bottom: 20px;
+  }
+
+  #sub.brand .sec1 .round .tb {
+    width: 250px;
+  }
+  #sub.brand .sec1 .bottom img {
+    max-height: 60px;
+  }
+  #sub.brand .sec1 .bottom .inner > p {
+    font-size: 25px;
+    padding: 120px 0 50px;
+  }
+
+  #sub.facility .sec2 .txt b {
+    font-size: 20px;
+    padding-bottom: 12px;
+  }
+  #sub.facility .sec2 .txt p {
+    font-size: 15px;
+    line-height: 20px; /*height: 40px; */
+    font-weight: 400;
+  }
+
+  #sub.facility .sec2 .txt {
+    padding: 20px 0 25px;
+  }
+  #sub.visitingcare .sec1 .txt p {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  #sub.visitingcare .sec1 .txt {
+    padding: 30px 0;
+  }
+  #sub.visitingcare .sec1 img {
+    max-height: 200px;
+  }
+  #sub.visitingcare .sec1 img.-maxH_none {
+    max-height: none;
+  }
+  #sub .y_txt .txt .tb .tbc span {
+    font-size: 16px;
+    line-height: 21px;
+  }
+  #sub .y_txt .txt {
+    height: 65px;
+    padding: 12px 0;
+  }
+
+  #sub .y_txt .list ul li {
+    font-size: 12px;
+    line-height: 17px;
+    height: auto;
+    padding: 8px 0;
+    box-sizing: border-box;
+  }
+  #sub.type2 .sec1 > ul > li .list ul li p,
+  #sub.type3 .sec1 > ul > li .list ul li p {
+    font-size: 12px;
+    line-height: 17px;
+  }
+  #sub.type .sec4 .info_wrap .list {
+    min-height: 80px;
+  }
+  #sub .y_txt .list {
+    padding: 10px 5px;
+  }
+  #sub.type2 .sec1 > ul > li .list {
+    min-height: 328px;
+  }
+
+  #sub.type .sec2 .info_wrap .list {
+    min-height: 191px;
+  }
+  #sub.type .sec4 .info_wrap .list ul li {
+    padding: 5px 0;
+  }
+  #sub.type .sec4 .info_wrap .list .tb {
+    height: 68px;
+  }
+
+  #sub .info_table ul li {
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 3%;
+  }
+  #sub .info_table ul {
+    width: 100%;
+    margin-left: 0;
+    margin-top: -3%;
+  }
+
+  #sub.type .sec2 .detail_txt {
+    font-size: 16px;
+    line-height: 21px;
+  }
+  #sub.type .sec2 .info_wrap ul li p.pic {
+    margin-top: 76px;
+  }
+
+  #sub.visit_info .inner_table tbody tr td p {
+    font-size: 14px;
+    line-height: 19px;
+  }
+  #sub.visiting_intro .sec1 ul li .img {
+    width: 100%;
+    float: none;
+    text-align: center;
+    padding-right: 0;
+    padding-left: 0;
+  }
+  #sub.visiting_intro .sec1 ul li .img p img {
+    max-height: 200px;
+  }
+  #sub.visiting_intro .sec1 ul li .txt,
+  #sub.vtraining_intro .wrap .info_table .txt {
+    float: none;
+    width: 100%;
+    padding: 0;
+  }
+  #sub.visiting_intro .sec1 ul li .txt .tb,
+  #sub.vtraining_intro .wrap .info_table .txt .tb {
+    height: auto;
+    padding: 15px 0 20px;
+  }
+
+  #sub.visitingtraining .sec3 .list ul li .tb .tbc h3.sub_t {
+    font-size: 22px;
+    padding-bottom: 7px;
+  }
+  #sub.visitingtraining .sec3 .list ul li {
+    padding: 0 5px;
+    box-sizing: border-box;
+    width: 48%;
+  }
+  #sub.visitingtraining .sec3 .list ul li .tb .tbc p {
+    font-size: 18px;
+    line-height: 23px;
+  }
+  #sub.visitingtraining .sec3 .list ul li .tb {
+    min-height: 150px;
+  }
+
+  #sub.visitingtraining .sec4 > img {
+    max-height: 60px;
+  }
+  #sub.visitingtraining .sec4 .list ul li .tb {
+    width: 85%;
+  }
+  #sub.visitingtraining .sec4 .list {
+    padding: 140px 0 25px;
+  }
+  #sub.visitingtraining .sec4 h2.sub_title {
+    font-size: 30px;
+    line-height: 35px;
+    padding-top: 30px;
+  }
+
+  #sub.visitingtraining .tb img {
+    max-width: 55px;
+    max-height: 55px;
+  }
+  #sub.visitingtraining .sec4 h2.sub_title.last {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  #sub.type2 .sec1 > ul > li .txt .tbc em,
+  #sub.type3 .sec1 > ul > li .txt .tbc em {
+    font-size: 16px;
+  }
+  #sub h3.sub_t .mbr {
+    display: block;
+  }
+
+  #sub.life .sec1 .step > ul > li .con .tb span.num {
+    width: 40px;
+    height: 40px;
+  }
+  #sub.life .sec1 .step > ul > li .con .tb span.num em {
+    font-size: 8px;
+    padding-top: 6px;
+  }
+  #sub.life .sec1 .step > ul > li .con .tb span.num em b {
+    font-size: 18px;
+  }
+
+  #sub.life .sec2 .pro2 {
+    padding-top: 60px;
+  }
+
+  .depth4 {
+    display: none;
+  }
+  .m_bbs_tab {
+    display: block;
+    margin-bottom: 30px;
+  }
+  #sub .top_txt,
+  #sub.type .sec1 {
+    padding-top: 60px;
+  }
+
+  #main .fullpage .section.sc .size .wrap {
+    padding-top: 60px;
+  }
+
+  #sub.positioning .sec1 {
+    display: none;
+  }
+  #sub.positioning .sec1_m {
+    display: block;
+    text-align: center;
+  }
+  #sub.positioning .sec1_m img {
+    margin-bottom: 50px;
+  }
+  #sub.positioning .sec1_m .positioning_img_m01 {
+    width: 100%;
+  }
+  #sub.positioning .sec1_m .positioning_img_m02 {
+    width: 100%;
+  }
+  #sub.positioning .sec1_m .txt p {
+    text-align: center;
+    font-size: 18px;
+    line-height: 23px;
+    color: #206d43;
+  }
+  #sub.positioning .sec1_m .txt p b {
+    font-weight: bold;
+  }
+
+  .visiting_intro span.text {
+    min-width: 200px;
+  }
+}
+
+@media (max-width: 600px) {
+  #sub.care_manage .sec1 ul li {
+    width: 48%;
+  }
+  #sub.care_manage .sec1 ul li img {
+    max-width: 70%;
+  }
+  #sub.care_manage .sec1 .txt {
+    padding: 15px 0 20px;
+  }
+  #sub.value .sec1 .size p .mbr {
+    display: block;
+  }
+  .visiting_intro span.text {
+    min-width: 160px;
+  }
+  #sub.vtraining_info table.table_home tbody tr td {
+    padding: 5px;
+  }
+
+  #main .quick.left ul {
+    position: fixed;
+    right: 10px;
+  }
+  #main .quick.left.mo {
+    display: block;
+  }
+  #main .quick.left.pc {
+    display: none;
+  }
+  #main .quick.left {
+    right: 10px;
+  }
+  #main .quick.left ul li {
+    width: 70px;
+    height: 60px;
+    margin-bottom: 5px;
+  }
+  #main .quick.left ul li a img {
+    height: 25px;
+  }
+  #main .quick.left ul li a span {
+    font-size: 12px;
+  }
+
+  #main .quick.right {
+    right: 10px;
+  }
+}
+
+@media (max-width: 520px) {
+  #footer .info {
+    padding-bottom: 30px;
+  }
+
+  #sub h2.sub_title {
+    padding: 40px 0 30px;
+    font-size: 24px;
+    letter-spacing: -1px;
+    line-height: 30px;
+  }
+  #sub .top_txt,
+  #sub.type .sec1 {
+    padding-top: 40px;
+  }
+  #sub.value .sec p.sec_title {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  #sub h3.sub_t {
+    font-size: 22px;
+  }
+  #sub.center_info .sec2 ul li span img {
+    max-height: 50px;
+  }
+  #sub.center_info .sec2 ul li span {
+    height: 50px;
+  }
+  #sub.center_info .sec2 ul li p {
+    font-size: 13px;
+  }
+  #sub.center_info .sec2 .tb {
+    height: 125px;
+  }
+  #sub.center_info .sec2 > img {
+    max-height: 130px;
+  }
+  #sub .info_table ul li > span,
+  #sub.center_info .sec4 > ul > li .info span {
+    font-size: 16px;
+  }
+  #sub .info_table ul li > span {
+    width: 280px;
+    height: 35px;
+    line-height: 35px;
+  }
+  #sub.use .info_table ul li > span {
+    margin: 0;
+  }
+  #sub.use .info_table ul li div {
+    border-top-left-radius: 0;
+  }
+
+  #sub .info_table ul li > div {
+    padding: 20px;
+  }
+  #sub .info_table ul li div > p,
+  #sub.center_info .sec4 ul li .info .list ul li {
+    font-size: 13px;
+  }
+  #sub.center_info .sec4 > ul > li .info span {
+    height: 35px;
+    line-height: 35px;
+  }
+  #sub.center_info .sec4 > ul > li .info .list ul li {
+    height: 30px;
+    line-height: 30px;
+  }
+
+  #sub.center_info .sec4 ul li .info .list {
+    padding: 10px 20px;
+  }
+  #sub.center_info .sec4 > ul > li {
+    width: 100%;
+    margin-left: 0;
+    float: none;
+  }
+  #sub.center_info .sec4 > ul > li:first-child {
+    margin-bottom: 20px;
+  }
+  #sub.center_info .sec4 > ul {
+    width: 100%;
+    margin-left: 0;
+  }
+  #sub table.table_form tbody tr td {
+    padding: 10px 5px;
+  }
+  #sub table.table_form tbody tr th {
+    font-size: 12px;
+  }
+  #sub.use .sec1 table tbody tr td > p:before,
+  #sub .info_table ul li div > p:before {
+    width: 7px;
+    top: 4px;
+  }
+  #sub .info_table ul li div > p,
+  #sub.use .sec1 table tbody tr td > p {
+    padding-left: 15px;
+  }
+  #sub.center_info .sec5 table thead tr th {
+    font-size: 13px;
+  }
+  #sub.center_info .sec5 table thead tr th span {
+    font-size: 11px;
+    padding-top: 4px;
+  }
+  #sub table.table_form tbody tr td {
+    font-size: 12px;
+  }
+
+  #sub .info_table ul li {
+    width: 100%;
+    margin-left: 0;
+  }
+  #sub .info_table ul li:first-child {
+    margin-bottom: 30px;
+  }
+  #sub.intro .info_table ul li:first-child {
+    margin-bottom: 0;
+  }
+  #sub.intro .info_table ul li div .img {
+    margin-left: 0 !important;
+  }
+
+  #sub .info_table ul {
+    width: 100%;
+    margin-left: 0;
+  }
+  #sub .info_table ul li div {
+    min-height: inherit;
+  }
+  #sub.vtraining_intro .wrap .info_table .txt .tb {
+    padding-bottom: 0;
+  }
+  #sub.vtraining_intro .wrap .info_table .txt .tb .info {
+    padding: 0;
+  }
+  #sub.intro .info_table ul li div .txt .info {
+    font-size: 14px;
+    line-height: 18px;
+    min-height: inherit;
+    padding: 15px 0;
+    box-sizing: border-box;
+  }
+  #sub.intro .info_table ul li > div {
+    padding: 15px;
+    border-top-left-radius: 0;
+  }
+  #sub.intro .info_table ul li div .txt {
+    width: 100%;
+    float: none;
+    padding-left: 0;
+  }
+  #sub.intro .info_table ul li div .img {
+    width: 100%;
+    float: none;
+  }
+  #sub .info_table ul li div > p {
+    margin-top: 7px;
+    font-size: 16px;
+    line-height: 21px;
+  }
+
+  #sub.intro .sec3 .tb .tbc > p {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+  }
+  #sub.intro .sec3 .tb {
+    height: 145px;
+  }
+
+  #map {
+    height: 300px;
+  }
+  .map_inner h1 img {
+    max-height: 40px;
+  }
+  .map_inner {
+    width: 100px;
+    padding: 5px 10px;
+    height: auto;
+  }
+  #sub .address p {
+    background-size: 20px;
+    padding-left: 65px;
+  }
+  #sub .address p b {
+    left: 25px;
+  }
+  #sub .address p:first-child {
+    background-size: 15px;
+  }
+  #sub.life .sec2 .pro2 {
+    padding-top: 30px;
+  }
+
+  #sub.partnership .info .partner_info > p {
+    font-size: 17px;
+    line-height: 21px;
+    padding: 25px 20px;
+  }
+  #sub.partnership .info .partner_info > p:after {
+    border-top: 15px solid #206d43;
+    left: 50%;
+    bottom: -30px;
+    margin-left: -15px;
+    content: "";
+    position: absolute;
+    border-right: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-left: 15px solid transparent;
+  }
+
+  #sub.daycare table tbody tr td {
+    font-size: 13px;
+    line-height: 17px;
+    height: auto;
+    padding: 7px 5px;
+    box-sizing: border-box;
+  }
+  #sub.daycare table thead tr th {
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+  }
+  #sub.daycare table tbody tr td .mbr {
+    display: block;
+  }
+  #sub p.pro_info {
+    font-size: 16px !important;
+    line-height: 20px !important;
+    font-weight: 400 !important;
+  }
+  #sub.type .sec .pro_info.small {
+    font-size: 14px !important;
+    line-height: 19px !important;
+    padding-top: 15px;
+  }
+  #sub.daycare img {
+    padding-top: 15px;
+    padding-bottom: 30px;
+  }
+
+  #sub.care_manage .sec1 ul li b {
+    font-size: 16px;
+    padding-bottom: 5px;
+  }
+  #sub.care_manage .sec1 ul li p {
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  #sub.care_manage .info_table ul li > span {
+    padding-left: 10px;
+    height: 30px;
+    line-height: 30px;
+  }
+  #sub.care_manage .info_table ul li > span,
+  #sub.care_manage .info_table ul li > span em {
+    font-size: 12px;
+  }
+  #sub.care_manage .info_table ul li > span em {
+    padding-right: 12px;
+  }
+  #sub.care_manage .info_table ul li > span em:after {
+    height: 10px;
+    margin-top: -5px;
+    right: 4px;
+  }
+  #sub.care_manage .info_table ul li .txt {
+    padding: 15px 10px;
+  }
+
+  #sub.care_manage .info_table ul li .txt:before {
+    border-bottom: 10px solid #e8f2eb;
+    border-right: 10px solid transparent;
+    border-left: 10px solid transparent;
+    top: -10px;
+    left: 50%;
+    margin-left: -10px;
+  }
+
+  #sub.care_manage .info_table ul li div > p {
+    padding-left: 15px;
+  }
+  #sub.care_manage .info_table ul li:first-child .txt,
+  #sub.care_manage .info_table ul li:nth-child(2) .txt {
+    min-height: 150px;
+  }
+  #sub.pro .list_wrap ul li {
+    width: 48%;
+  }
+  #sub.pro .list_wrap ul li a dl dt.img .hover {
+    font-size: 15px;
+  }
+  #sub.pro .list_wrap ul li a dl dt.img .hover span {
+    width: 30px;
+    font-weight: bold;
+    height: 30px;
+    line-height: 26px;
+    margin-top: 5px;
+    font-size: 20px;
+  }
+
+  #sub.type2 .sec1 > ul > li,
+  #sub.type3 .sec1 > ul > li {
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    margin-bottom: 3%;
+  }
+  #sub.type2 .sec1 > ul,
+  #sub.type3 .sec1 > ul {
+    width: 100%;
+    margin-left: 0;
+    margin-bottom: -3%;
+  }
+  #sub.type2 .sec1 > ul > li .list,
+  #sub.type3 .sec1 > ul > li .list {
+    min-height: inherit;
+  }
+  #sub.type2 .sec1 > ul > li .txt .tbc em,
+  #sub.type3 .sec1 > ul > li .txt .tbc em {
+    font-size: 14px;
+  }
+
+  .sub_visual .slogun {
+    padding-top: 50px;
+  }
+  #sub.type2 .sec1 > ul {
+    padding-top: 20px;
+  }
+
+  #sub.pro.review .list_wrap ul li a dl dd.info span {
+    font-size: 14px;
+  }
+  #sub.care_view .review_wrap .info .txt > p {
+    font-size: 16px;
+    line-height: 21px;
+  }
+  #sub.care_view .review_wrap .info .txt .sub_txt p span:first-child,
+  #sub.care_view .review_wrap .info .txt .sub_txt p span {
+    font-size: 16px;
+  }
+  #sub.care_view .review_wrap .info .txt .sub_txt p span em {
+    font-size: 14px;
+  }
+
+  #sub.care_view .review_wrap .info ul li:first-child {
+    width: 100%;
+  }
+  #sub.care_view .review_wrap .info ul li {
+    width: 100%;
+  }
+
+  #sub.care_view .info_table ul {
+    width: 100%;
+    margin-left: 0;
+  }
+  #sub.care_view .info_table ul li {
+    width: 100%;
+    margin-left: 0;
+  }
+  #sub.care_view .info_table ul li > span {
+    margin-left: 0;
+  }
+  #sub.care_view .info_table ul li div {
+    border-top-left-radius: 0;
+  }
+
+  .sub_visual .slogun {
+    height: 150px;
+  }
+
+  #sub.center_info .sec5 table tbody tr td > p {
+    font-size: 11px;
+    line-height: 13px;
+  }
+  #sub.center_info table.table_form tbody tr th {
+    line-height: 13px;
+  }
+
+  #sub .step ul > li .con .tb span.num {
+    width: 28px;
+    height: 28px;
+    line-height: 30px;
+    font-size: 12px;
+  }
+  #sub .step ul > li .con .tb p {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  #sub .step ul > li .con:before {
+    background-size: 8px;
+    margin-top: -10px;
+    left: -15%;
+  }
+  #sub .step ul > li p.detail_first {
+    font-size: 11px;
+  }
+  #sub .step ul > li p.detail {
+    font-size: 11px; /*min-height: 55px;*/
+  }
+  #sub.visiting_intro .step ul > li p.detail {
+    min-height: 65px;
+  }
+  #sub .step {
+    padding-top: 30px;
+    padding-bottom: 40px;
+  }
+  #sub .step ul > li .con {
+    max-width: inherit;
+  }
+
+  #sub .slide .swiper_em .swiper-slide > span {
+    font-size: 10px;
+    padding: 0 30px;
+    height: 20px;
+    line-height: 20px;
+    margin-top: 10px;
+  }
+  #sub .slide .swiper_em .swiper-slide {
+    height: 250px;
+  }
+  #sub .thumbnail ul > li a em {
+    height: 3px;
+  }
+
+  #main .fullpage .section.sec1 {
+    background-position: 63% center;
+  }
+  #main .down_bt a {
+    height: 35px;
+    background-size: 55%;
+    font-size: 10px;
+  }
+
+  #sub.welcome .intro ul li.txt p:first-child {
+    font-size: 25px;
+  }
+  #sub.welcome .intro ul li.txt p:first-child b {
+    font-size: 22px;
+    line-height: 27px;
+  }
+  #sub.welcome .intro ul li.txt p {
+    padding-top: 30px;
+    font-size: 14px;
+    line-height: 18px;
+  }
+  #sub.welcome .size .txt > p {
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  #sub.welcome .size .ceo_sign img {
+    max-height: 25px;
+  }
+
+  #sub.day_support .sec1 ul li {
+    width: 48%;
+    margin-top: 2%;
+    padding: 20px 10px;
+  }
+  #sub.day_support .sec1 ul {
+    margin-top: -2%;
+  }
+
+  #sub.use .sec3 .mb_tb_desc {
+    display: block;
+  }
+  #sub.use .sec3 .mb_tb_desc p.__eff3fo::before {
+    content: "";
+    display: inline-block;
+    width: 25px;
+    height: 10px;
+    background: #eff3f0;
+  }
+  #sub.use .sec3 .mb_tb_desc p.__fffbf5::before {
+    content: "";
+    display: inline-block;
+    width: 25px;
+    height: 10px;
+    background: #fffbf5;
+  }
+  #sub.use .sec3 .mb_tb_desc p > em {
+    margin: 0 10px;
+  }
+
+  #sub.use .sec3 table.table_form {
+    display: none;
+  }
+  #sub.use .sec3 table.m_table {
+    display: table;
+    margin-top: 30px;
+  }
+  #sub.use .sec3 table.table_form thead tr th {
+    font-size: 13px;
+    height: 45px;
+    line-height: 20px;
+  }
+  #sub.use .sec3 table.table_form tbody tr th {
+    height: 35px;
+    line-height: 35px;
+    font-size: 13px;
+  }
+  #sub.use .sec3 table.table_form tbody tr td {
+    font-size: 12px;
+    height: 40px;
+    line-height: 16px;
+  }
+  #sub.use .sec3 table.table_form tbody tr th {
+    padding: 0;
+    border-top: 2px solid #206d43;
+  }
+  #sub.use .sec3 table.table_form tbody tr.mb_eff3f0 {
+    background: #eff3f0;
+  }
+  #sub.use .sec3 table.table_form tbody tr.mb_fffbf5 {
+    background: #fffbf5;
+  }
+
+  #sub .sub_wrap {
+    min-height: 400px;
+  }
+
+  #sub.consulting .consulting_list table tbody tr td.result span {
+    max-width: 80px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 15px;
+  }
+  #sub.consulting .consulting_list table tbody tr td {
+    font-size: 14px;
+  }
+  #sub.consulting .consulting_list table tbody tr td.conTitle p,
+  #sub.consulting .consulting_list table tbody tr.view_tr .title {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  #sub.consulting .bt a {
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+  }
+
+  #main .fullpage .section.sec1 .txt h2 .mbr {
+    display: block;
+  }
+  #main .fullpage .section.sec1 .txt p br {
+    display: none;
+  }
+  #main .fullpage .section.sec1 .select_bt a {
+    padding: 55px 5px 15px 5px;
+    border-radius: 15px;
+    width: 32%;
+    margin-left: 1%;
+    background-size: 30px 30px !important;
+    background-position: center 18px !important;
+  }
+  #main .fullpage .section.sec1 .select_bt {
+    width: 101%;
+    margin-left: -1%;
+  }
+  #main .fullpage .section.sec1 .select_bt a p b {
+    font-size: 15px;
+    padding-top: 5px;
+  }
+  #main .fullpage .section.sec1 .select_bt a p span {
+    font-size: 11px;
+    line-height: 16px;
+  }
+  #main .fullpage .section.sec1 .txt h2 {
+    font-size: 25px;
+  }
+
+  #main .fullpage .section.sec1 .txt p {
+    font-size: 14px;
+    line-height: 19px;
+    padding-top: 10px;
+    padding-bottom: 0;
+  }
+
+  #main .fullpage .section .txt h3 {
+    font-size: 25px;
+    line-height: 40px;
+  }
+  #main .fullpage .section .txt span {
+    font-size: 12px;
+  }
+  #main .fullpage .section .txt a.total_service-link {
+    font-size: 25px;
+    line-height: 40px;
+  }
+  #main .fullpage .section .con_bt ul li {
+    width: 24%;
+    margin-left: 1%;
+  }
+  #main .fullpage .section .con_bt ul {
+    width: 101%;
+    margin-left: -1%;
+  }
+
+  #main .fullpage .section .con_bt ul li .tb .tbc > img {
+    max-width: 35px;
+    max-height: 25px;
+  }
+  #main .fullpage .section .con_bt ul li .tb .tbc p {
+    padding-top: 8px;
+    font-size: 10px;
+  }
+  #main .fullpage .section .con_bt {
+    padding-top: 30px;
+  }
+
+  #main .fullpage .section.sec3,
+  #main .fullpage .section.sec6 {
+    background-position: 70% center;
+  }
+  #main .fullpage .section.sec7 {
+    background-position: 25% center;
+  }
+
+  #main .fullpage .section .program_bt ul li a .txt {
+    padding: 5px;
+  }
+  #main .fullpage .section .program_bt .care ul li a .txt i {
+    bottom: 5px;
+  }
+
+  #main .fullpage .section .program_bt ul li a .txt p {
+    font-size: 16px;
+    height: 42px;
+    line-height: 21px;
+    box-sizing: border-box;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: inherit;
+    white-space: inherit;
+    word-break: break-all;
+  }
+  #main .fullpage .section .program_bt ul li a .txt i {
+    right: 5px;
+    bottom: 8px;
+    width: 15px;
+    height: 15px;
+    line-height: 15px;
+  }
+  #main .fullpage .section .program_bt ul li a .txt i img {
+    max-height: 6px;
+  }
+  #main .fullpage .section .program_bt ul li a .txt span {
+    font-size: 11px;
+    padding-bottom: 5px;
+  }
+  #main .fullpage .section .program_bt .care ul li a .txt span {
+    padding-bottom: 0;
+  }
+  #main .fullpage .section.sec6 .program_bt ul li a .txt .info {
+    padding-top: 5px;
+  }
+  #main .fullpage .section.sec6 .wrap .txt .subject a span {
+    font-size: 12px;
+  }
+  #main .fullpage .section.sec6 .wrap .txt .subject a img {
+    padding-left: 5px;
+  }
+  #main .fullpage .section .con_bt.program_bt ul li.no_data {
+    font-size: 16px;
+  }
+
+  #main .fullpage .section.sec7 .size .program_list .wrap .bt .tb {
+    height: 80px;
+  }
+  #main .fullpage .section.sec7 .size .program_list .wrap .bt .img img {
+    max-width: 35px;
+    max-height: 25px;
+  }
+  #main .fullpage .section.sec7 .size .program_list .wrap .bt .tb .tbc > p {
+    font-size: 13px;
+    padding-top: 10px;
+  }
+
+  #main .fullpage .section.sec8 {
+    padding-top: 65px;
+  }
+  #footer .info .size .inner {
+    padding-bottom: 30px;
+    background-size: 45px;
+    padding-top: 35px;
+  }
+  #footer .top .size .left span.num {
+    padding-bottom: 10px;
+  }
+  #footer .top .size .sns {
+    margin-top: 10px;
+  }
+
+  #sub.com_intro .txt p {
+    font-size: 14px;
+    line-height: 19px;
+    padding-bottom: 15px;
+  }
+
+  #sub.value .sec1 .size {
+    padding: 0 10px;
+  }
+  #sub.value .sec1 .size p span {
+    font-size: 11px;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    top: 8px;
+  }
+  #sub.value .sec1 .size p {
+    padding: 8px 0 8px 30px;
+  }
+  #sub.value .sec1 {
+    margin-bottom: 35px;
+  }
+  #sub.value .sec2 > span {
+    font-size: 16px;
+    height: 35px;
+    line-height: 35px;
+    max-width: 160px;
+  }
+  #sub.value .sec p.sec_title {
+    font-size: 20px;
+    line-height: 25px;
+    padding-bottom: 20px;
+  }
+  #sub.value .sec2 .list ul li .tb .tbc span {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  #sub.value .sec2 .list ul li .tb {
+    width: 98%;
+  }
+
+  #sub.value .sec2 .list ul li .tb .tbc p {
+    font-size: 12px;
+    line-height: 15px;
+    padding-top: 5px;
+  }
+  #sub.value .sec2 .list {
+    padding: 60px 10px 20px;
+  }
+
+  #sub.value .sec3 .list ul li span {
+    width: 45px;
+    height: 45px;
+    margin-left: -22.5px;
+    top: -20px;
+    font-size: 18px;
+    line-height: 65px;
+  }
+  #sub.value .sec3 .list ul li {
+    padding: 0 3px;
+  }
+  #sub.value .sec3 .list ul li .tb .tbc p {
+    font-size: 12px;
+    line-height: 17px;
+  }
+  #sub.value .sec3 .list ul li .tb {
+    min-height: 90px;
+  }
+  #sub.value .sec {
+    margin-bottom: 35px;
+  }
+  #sub.value .sec4 .list ul li .img img {
+    max-height: 54px;
+  }
+  #sub.value .sec4 .list ul li .img p {
+    font-size: 15px;
+  }
+  #sub.value .sec4 .list ul li .txt p {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  #sub.value .sec4 .list ul li .txt {
+    padding-top: 10px;
+  }
+
+  #sub .sub_wrap {
+    padding-bottom: 60px;
+  }
+  #sub.value .sec1 {
+    padding: 10px 0;
+  }
+  #sub.value .sec1 .size p {
+    font-size: 14px;
+    line-height: 19px;
+  }
+  #sub.value .sec p.sec_title {
+    font-size: 16px;
+    line-height: 21px;
+  }
+  #sub.value .sec2 .list {
+    margin-top: -40px;
+  }
+
+  #sub.positioning .sec1 .txt p {
+    font-size: 18px;
+    line-height: 23px;
+  }
+  #sub.brand .sec1 > p {
+    font-size: 18px;
+    padding-bottom: 10px;
+  }
+  #sub.brand .sec1 .bottom img {
+    max-height: 40px;
+  }
+  #sub.brand .sec1 .bottom .inner > p {
+    font-size: 18px;
+    padding: 85px 0 40px;
+    margin-top: -30px;
+  }
+  #sub.brand .sec2 {
+    padding-top: 40px;
+  }
+  #sub.brand .sec2 > p {
+    font-size: 16px;
+    line-height: 21px;
+    padding: 20px 0;
+  }
+  #sub.intro .info_table ul li div .img .pic img {
+    max-height: 160px;
+  }
+
+  /*#sub.daycare .depth4 ul li{width: 50% !important;}*/
+  #sub.facility .sec2 .txt span {
+    padding: 0 10px;
+    font-size: 12px;
+    height: 20px;
+    line-height: 20px;
+  }
+  #sub.facility .sec2 .txt b {
+    font-size: 17px;
+    padding: 8px 0 10px;
+  }
+  #sub.facility .sec2 .txt p {
+    font-size: 13px;
+    line-height: 18px; /* height: 36px;*/
+  }
+  #sub.facility .sec2 .txt {
+    padding: 10px 0;
+  }
+
+  #sub.visitingcare .sec3 > ul > li {
+    width: 100%;
+    margin-left: 0;
+    float: none;
+    margin-top: 5%;
+  }
+  #sub.visitingcare .sec3 > ul {
+    width: 100%;
+    margin-left: 0;
+    margin-top: -5%;
+  }
+  #sub .y_txt {
+    padding-top: 10px;
+  }
+  #sub .y_txt .list ul li {
+    font-size: 14px;
+  }
+
+  #sub.type .sec4 .info_wrap .list ul li {
+    line-height: 19px;
+  }
+  #sub.visitingcare .sec1 .txt p {
+    font-size: 12px;
+    line-height: 17px;
+  }
+  #sub.visitingcare .sec1 img {
+    max-height: 130px;
+  }
+  #sub.visitingcare .sec1 img.-maxH_none {
+    max-height: none;
+  }
+  #sub.visitingcare .sec1 {
+    padding-top: 20px;
+  }
+
+  #sub.visit_info .info_table div {
+    padding: 10px;
+  }
+  #sub.visit_info .inner_table thead tr th {
+    font-size: 13px;
+  }
+  #sub.visit_info .inner_table tbody tr td {
+    font-size: 13px;
+    line-height: 18px;
+  }
+
+  #sub .step ul > li p.detail {
+    margin-top: 5px;
+  }
+  #sub .info_table ul li div > p,
+  #sub.center_info .sec4 ul li .info .list ul li {
+    font-size: 14px !important;
+    line-height: 19px !important;
+  }
+
+  #main .fullpage .section.sec6 .program_bt ul li .txt p,
+  #main .fullpage .section .program_bt ul li a .txt p {
+    font-size: 14px;
+    line-height: 18px;
+    height: 36px;
+  }
+  #main .fullpage .section.sec7 .size .program_list {
+    padding-top: 20px;
+  }
+  #sub.visit_info .sec,
+  #sub.vtraining_info .sec2 {
+    padding-top: 40px;
+  }
+  #sub.visit_pro .table_form tbody tr td {
+    padding: 10px 15px;
+  }
+
+  #sub.visitingtraining .sec3 .list ul li .tb .tbc h3.sub_t {
+    font-size: 18px;
+  }
+  #sub.visitingtraining .sec3 .list ul li .tb .tbc p {
+    font-size: 14px;
+    line-height: 19px;
+    padding-top: 15px;
+  }
+  #sub.visitingtraining .sec3 .list ul li .tb {
+    min-height: 120px;
+  }
+
+  #sub.visitingtraining .sec4 > img {
+    max-height: 45px;
+  }
+  #sub.visitingtraining .tb img {
+    max-width: 40px;
+    max-height: 40px;
+  }
+  #sub.visitingtraining .sec4 h2.sub_title.last {
+    font-size: 18px;
+    line-height: 23px;
+  }
+  #sub.visitingtraining .sec4 .list {
+    padding: 80px 0 20px;
+    margin-top: -35px;
+  }
+  #sub.vtraining_info .table_form tbody tr td {
+    padding: 10px 7px;
+  }
+  #sub.vtraining_info .table_form tbody tr td span {
+    font-size: 13px;
+    padding-bottom: 5px;
+  }
+  #sub.vtraining_info .table_form tbody tr td.txt p:before {
+    top: 8px;
+    width: 7px;
+  }
+  #sub.vtraining_info .table_form tbody tr td.txt p {
+    padding-left: 10px;
+  }
+
+  #sub .y_txt span {
+    font-size: 15px;
+    height: 40px;
+    line-height: 40px;
+  }
+  #sub.type .sec img {
+    padding: 25px 30px 0;
+    box-sizing: border-box;
+  }
+  #sub.type2 .sec2 img,
+  #sub.type3 .sec img {
+    padding: 15px 0 0 0;
+  }
+  #sub.type .sec {
+    padding-top: 40px;
+  }
+
+  #sub.type .info_wrap > ul > li {
+    width: 100%;
+    margin-left: 0;
+    float: none;
+    margin-top: 3%;
+  }
+  #sub.type .info_wrap > ul {
+    width: 100%;
+    margin-left: 0;
+    margin-top: -3%;
+  }
+  #sub.type .sec1 .info_wrap .info.y_txt .list {
+    min-height: auto;
+  }
+  #sub.type .c_txt {
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    padding: 0 15px;
+  }
+
+  .depth4 {
+    padding-bottom: 0;
+  }
+  #sub.type .sec2 .info_wrap > ul > li {
+    width: 100%;
+    float: none;
+  }
+  #sub.type .sec2 .info_wrap ul li p.pic {
+    margin-top: 0;
+  }
+  #sub.type .sec2 .info_wrap .list {
+    min-height: inherit;
+  }
+  #sub.type .sec2 .detail_txt br {
+    display: none;
+  }
+  #sub.type .sec2 .detail_txt {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  #sub.type .sec3 .info_wrap .list {
+    min-height: inherit;
+  }
+
+  #sub.type .sec4 .info_wrap .direction > ul > li {
+    float: left;
+    width: 48%;
+    margin-left: 2%;
+    padding-top: 0;
+  }
+  #sub.type .sec4 .info_wrap .direction > ul {
+    width: 102%;
+    margin-left: -2%;
+  }
+  #sub.type .sec4 .info_wrap .direction {
+    width: 100%;
+  }
+  #sub.type2 .sec .list.last {
+    padding-top: 40px;
+  }
+  /*
+	#sub.type .sec4 .info_wrap .middle{width: 100%;}
+	#sub.type .sec4 .info_wrap .middle > p{margin-top: 0; background-size: contain; margin: 15px 0; box-sizing: border-box; }
+	#sub.type .sec4 .info_wrap .middle > p img{padding: 0; }*/
+  #sub.type .sec4 .info_wrap .middle {
+    display: none;
+  }
+  #sub.type .sec4 .info_wrap .direction.right {
+    padding-top: 3%;
+  }
+  #sub.type2 .sec1 > ul > li .list ul li,
+  #sub.type3 .sec1 > ul > li .list ul li {
+    padding: 5px 0;
+  }
+
+  /*	#sub.life .sec1 .step > ul > li .con .tb span.num em b{font-size: 15px;}
+	#sub.life .sec1 .step > ul > li .con .tb span.num em{padding-top: 7px;}
+	#sub.life .sec1 .step > ul > li .con .tb span.num{width: 35px; height: 35px;}*/
+  #sub.life .sec1 .step > ul > li .detail b {
+    font-size: 14px;
+  }
+  #sub.life .sec1 .step > ul > li .detail b .mbr {
+    display: block;
+  }
+  /*#sub.life .step ul > li p.detail br{display: none;}*/
+  #sub.life .sec1 .step > ul > li .con .tb span.num {
+    width: 60px;
+    height: 60px;
+    top: -5px;
+    left: -5px;
+  }
+  #sub.life .sec1 .step > ul > li .con .tb span.num em {
+    padding-top: 16px;
+  }
+  #sub.life .step ul > li .con:before {
+    left: -11%;
+  }
+  #sub.life .step ul > li:nth-child(3) .con:before {
+    display: none;
+  }
+  #sub.life .step ul > li:nth-child(5) .con:before {
+    display: none;
+  }
+
+  #sub.life .step ul > li:nth-child(4) .con:before {
+    display: block;
+  }
+
+  /*
+	#sub.life .step ul > li{margin-top: 8% !important;}
+	#sub.life .step ul > li p.detail{min-height: 148px;}*/
+  #sub.life .step ul li {
+    width: 48% !important;
+    margin-left: 2% !important;
+    margin-top: 6% !important;
+  }
+  #sub.life .step ul {
+    margin-top: -6%;
+  }
+
+  #main .fullpage .section.sec1 .txt {
+    padding: 10px 0 20px;
+  }
+
+  .visiting_intro span.text {
+    min-width: 140px;
+  }
+
+  #sub.vtraining_info table.table_home thead tr th {
+    height: 32px;
+    padding: 8px 0;
+    line-height: 120%;
+  }
+}
+
+@media (max-width: 360px) {
+  #sub h2.sub_title.life {
+    font-size: 17px;
+  }
+  #sub p.pro_info {
+    font-size: 14px !important;
+    line-height: 19px !important;
+  }
+  #sub .slide .swiper_em .swiper-slide > span {
+    height: 25px;
+    line-height: 25px;
+    font-size: 13px;
+    margin-top: 10px;
+  }
+  #sub .slide .swiper_em .swiper-slide {
+    height: 200px;
+  }
+  #sub.day_support .sec1 ul li p.txt {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 18px;
+  }
+  #sub.day_support .sec1 ul li i {
+    font-size: 22px;
+  }
+  #sub.day_support .sec1 ul li .tb {
+    height: 90px;
+    padding: 10px 0;
+  }
+
+  #main .fullpage .section.sec1 .select_bt a p b {
+    font-size: 14px;
+  }
+  #main .fullpage .section.sec1 .select_bt a p span {
+    font-size: 10px;
+  }
+
+  #main
+    .fullpage
+    .section.sec6
+    .program_bt
+    ul
+    li
+    a
+    .txt
+    .info
+    span:first-child {
+    padding-right: 3px;
+  }
+  #main .fullpage .section.sec6 .program_bt ul li a .txt .info span {
+    padding-left: 3px;
+  }
+  #sub.value .sec2 .list ul li .tb .tbc p {
+    font-size: 10px;
+    line-height: 13px;
+  }
+  #sub.value .sec2 .list ul li .tb .tbc span {
+    font-size: 22px;
+    line-height: 28px;
+  }
+
+  #sub.value .sec3 .list ul li .tb .tbc p {
+    font-size: 10px;
+    line-height: 15px;
+  }
+  #sub.value .sec3 .list ul li .tb {
+    min-height: 80px;
+  }
+  #sub .top_txt,
+  #sub.type .sec1 {
+    padding-top: 35px;
+  }
+  #sub h2.sub_title {
+    font-size: 21px;
+    line-height: 26px;
+    padding: 35px 0 20px;
+  }
+
+  #sub h3.sub_t {
+    font-size: 18px;
+  }
+  #sub.visitingtraining .sec3 .list ul li .tb .tbc p {
+    font-size: 12px;
+    line-height: 17px;
+  }
+  #sub.life .sec1 .step > ul > li .detail b .mbr {
+    display: block;
+  }
+
+  #sub.life .sec1 .step > ul > li .con .tb span.num {
+    width: 40px;
+    height: 40px;
+  }
+  #sub.life .sec1 .step > ul > li .con .tb span.num em {
+    padding-top: 8px;
+  }
+  #sub .step ul > li .con .tb p img {
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .visiting_intro span.text {
+    min-width: 95px;
+  }
+
+  #sub.vtraining_info table.table_home thead tr th {
+    font-size: 10px;
+  }
+  #sub.vtraining_info table.table_home tbody tr th {
+    font-size: 10px;
+  }
+  #sub.vtraining_info table.table_home tbody tr td {
+    font-size: 10px;
+  }
+}
+
+/************************************************************
+											ADD_20.06_byGoat
+************************************************************/
+@media (max-width: 1024px) {
+  #sub.welfaretool .salary .sec2 dl dd ul.inner_list {
+    border: 0;
+  }
+  #sub.welfaretool .salary .sec2 dl dd ul.inner_list li {
+    width: 25%;
+    min-width: auto;
+    border-left: 1px solid #ececec;
+    border-bottom: 1px solid #ececec;
+  }
+  #sub.welfaretool .salary .sec2 dl dd ul.inner_list li:first-child {
+    border-bottom: 1px solid #ececec;
+  }
+  #sub.welfaretool .salary .sec2 dl dd ul.inner_list li:nth-child(1),
+  #sub.welfaretool .salary .sec2 dl dd ul.inner_list li:nth-child(5) {
+    border-left: 1px solid #ececec;
+  }
+  #sub.welfaretool .salary .sec2 dl dd ul.inner_list li:nth-child(4),
+  #sub.welfaretool .salary .sec2 dl dd ul.inner_list li:nth-child(7) {
+    border-right: 1px solid #ececec;
+  }
+
+  #sub.welfaretool .intro .sec1 {
+    background: none;
+    padding: 0;
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap {
+    max-width: 100%;
+    background: none;
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0101,
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0102,
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0103,
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0104 {
+    float: none;
+    margin: 0;
+    width: 100%;
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0101 a,
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0102 a,
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0103 a,
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0104 a {
+    width: 100%;
+    height: auto;
+    border: 0;
+    padding: 9px 15px 7px;
+    background: #206d43;
+    font-size: 18px;
+    text-align: left;
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0101 div,
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0102 div,
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0103 div,
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0104 div {
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block !important;
+    width: 100%;
+    padding: 60px 30px 60px 210px;
+  }
+
+  .item_view_wrap .item_view .item_view_r .item_view_info .sideup span {
+    min-width: 48%;
+    margin: 1%;
+  }
+}
+
+@media (max-width: 768px) {
+  span.nbsp {
+    display: inline;
+  }
+  .complete_wrap .complete p {
+    font-size: 18px;
+  }
+  ul.dev_tab {
+    display: none;
+  }
+
+  .modal .inquiry_popup {
+    padding: 29px 0 0;
+  }
+  .modal .inquiry_popup h3 {
+    font-size: 30px;
+  }
+  .modal .inquiry_popup h3.small {
+    font-size: 16px;
+  }
+  .inquiry_wrap .bbs .agree_desc {
+    font-size: 12px;
+  }
+  .inquiry_wrap .bbs .btnSet.small .btn {
+    width: 100%;
+    margin: 0;
+  }
+  .inquiry_wrap .bbs .btnSet.small .btn + .btn {
+    margin: 5px 0 0;
+  }
+  .inquiry_wrap .phone_wrap input {
+    width: 32% !important;
+    font-size: 14px;
+  }
+
+  .item_list_wrap {
+    margin: 40px 0 0;
+  }
+  .item_list_wrap ul.item_list li {
+    width: 48%;
+    padding: 0 0 33px;
+  }
+  .item_list_wrap ul.item_list li h3 {
+    font-size: 20px;
+    margin: 9px 0 0;
+  }
+  .item_list_wrap ul.item_list li p {
+    font-size: 14px;
+    margin: 2px 0 0;
+  }
+  .item_list_wrap ul.item_list li dl {
+    margin: 13px 0 0;
+  }
+  .item_list_wrap ul.item_list li dl dt {
+    font-size: 14px;
+  }
+  .item_list_wrap ul.item_list li dl dd {
+    font-size: 20px;
+  }
+
+  .item_view_wrap {
+    margin: 0;
+  }
+  .item_view_wrap .item_view_top h3 {
+    font-size: 20px;
+  }
+  .item_view_wrap .item_view_top a {
+    top: 4px;
+  }
+  .item_view_wrap .item_view_top a img {
+    height: 14px;
+  }
+  .item_view_wrap .item_view {
+    margin: 12px 0 0;
+  }
+  .item_view_wrap .item_view > div {
+    float: none;
+  }
+  .item_view_wrap .item_view .item_view_l {
+    width: 100%;
+  }
+  .item_view_wrap .item_view .item_view_l .item_view_thumb img {
+    width: 100%;
+  }
+  .item_view_wrap .item_view .item_view_l a {
+    font-size: 18px;
+  }
+  .item_view_wrap .item_view .item_view_r {
+    width: 100%;
+    margin: 20px 0 0;
+  }
+  .item_view_wrap .item_view .item_view_r .item_view_info dl {
+    padding: 10px 0 0;
+  }
+  .item_view_wrap .item_view .item_view_r .item_view_info .sideup {
+    margin: 23px 0 0 -5px;
+  }
+  .item_view_wrap
+    .item_view
+    .item_view_r
+    .item_view_select
+    ul.item_view_type
+    li
+    a {
+    font-size: 16px;
+  }
+  .item_view_wrap .item_view_detail {
+    margin: 40px 0 0;
+    padding: 40px 0 0;
+  }
+
+  #sub.welfaretool .index .sec1 h3 {
+    font-size: 16px;
+  }
+
+  #sub.welfaretool .index .sec1 ul li {
+    width: 28%;
+    padding: 0 0 28%;
+    margin: 0 2%;
+  }
+  #sub.welfaretool .index .sec1 ul li div p {
+    font-size: 20px;
+  }
+
+  #sub.welfaretool .salary .sec1 {
+    padding: 10px 0 0;
+  }
+  #sub.welfaretool .salary .sec1 table.table_form tbody tr th,
+  #sub.welfaretool .salary .sec1 table.table_form tbody tr td {
+    padding: 15px;
+    font-size: 14px;
+    word-break: keep-all;
+  }
+  #sub.welfaretool .salary .sec1 table.table_form tbody tr td ul li:before {
+    top: 7px;
+  }
+
+  #sub.welfaretool .salary .sec1 table.table_form tbody tr td dl dt {
+    width: 100%;
+    min-height: auto;
+    padding: 13px 0 12px;
+    font-size: 15px;
+  }
+  #sub.welfaretool .salary .sec1 table.table_form tbody tr td dl dt br {
+    display: none;
+  }
+  #sub.welfaretool .salary .sec1 table.table_form tbody tr td dl dd {
+    width: 33.33%;
+    min-height: auto;
+    padding: 13px 0;
+  }
+  #sub.welfaretool .salary .sec1 table.table_form tbody tr td dl dd b {
+    font-size: 16px;
+  }
+  #sub.welfaretool .salary .sec1 table.table_form tbody tr td dl dd p {
+    font-size: 14px;
+  }
+  #sub.welfaretool .salary .sec1 table.table_form tbody tr td dl dt + dd {
+    width: 33.34%;
+  }
+
+  #sub.welfaretool .salary .sec2,
+  #sub.welfaretool .salary .sec3 {
+    margin: 40px 0 0;
+  }
+  #sub.welfaretool .salary .sec2 h3 {
+    font-size: 16px;
+  }
+  #sub.welfaretool .salary .sec2 .sec2_con {
+    padding: 30px;
+  }
+  #sub.welfaretool .salary .sec2 dl {
+    font-size: 14px;
+    margin: 17px 0 0;
+  }
+  #sub.welfaretool .salary .sec2 dl dd:before {
+    top: 7px;
+  }
+  #sub.welfaretool .salary .sec2 dl dd {
+    margin: 7px 0 0 !important;
+  }
+  #sub.welfaretool .salary .sec2 dl dd ul.inner_list li h4,
+  #sub.welfaretool .salary .sec2 dl dd ul.inner_list li p {
+    font-size: 12px;
+  }
+  #sub.welfaretool .salary .sec2 dl dd span {
+    font-size: 12px;
+  }
+
+  #sub.welfaretool .procedure .sec1 {
+    padding: 10px 0 0;
+  }
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr th {
+    padding: 15px;
+    font-size: 14px;
+  }
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr th br {
+    display: none;
+  }
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr td {
+    padding: 15px;
+    font-size: 14px;
+    word-break: keep-all;
+  }
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr td dl {
+    margin: 12px 0 0;
+  }
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr td ul li,
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr td dl dd,
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr td dl dt + dd {
+    margin: 6px 0 0;
+  }
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr td ul li:before,
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr td dl dd:before,
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr td p:before {
+    top: 7px;
+  }
+  #sub.welfaretool .procedure .sec2 {
+    margin: 40px 0 0;
+  }
+
+  #sub.welfaretool .intro .sec2 {
+    margin: 40px 0 0;
+  }
+}
+
+@media (max-width: 520px) {
+  .modal .inquiry_popup h3 {
+    font-size: 24px;
+  }
+  .modal .inquiry_popup h3.small {
+    font-size: 14px;
+  }
+
+  .item_list_wrap ul.item_list li h3 {
+    font-size: 18px;
+  }
+  .item_list_wrap ul.item_list li p {
+    font-size: 12px;
+  }
+  .item_list_wrap ul.item_list li dl dt {
+    font-size: 12px;
+  }
+  .item_list_wrap ul.item_list li dl dd {
+    font-size: 16px;
+  }
+
+  .item_view_wrap .item_view_top h3 {
+    font-size: 18px;
+  }
+  .item_view_wrap .item_view_top a {
+    top: 2px;
+  }
+  .item_view_wrap .item_view_top a img {
+    height: 12px;
+  }
+  .item_view_wrap .item_view .item_view_l a {
+    font-size: 16px;
+  }
+  .item_view_wrap .item_view .item_view_r .item_view_info dl {
+    font-size: 14px;
+  }
+  .item_view_wrap .item_view .item_view_r .item_view_info dl dt {
+    width: 100%;
+  }
+  .item_view_wrap .item_view .item_view_r .item_view_info .sideup span {
+    font-size: 12px;
+  }
+  .item_view_wrap .item_view .item_view_r .item_view_select dl dt {
+    font-size: 16px;
+  }
+  .item_view_wrap .item_view .item_view_r .item_view_select dl dd {
+    font-size: 14px;
+  }
+  .item_view_wrap
+    .item_view
+    .item_view_r
+    .item_view_select
+    ul.item_view_type
+    li
+    a {
+    font-size: 14px;
+    padding: 7px 0 6px;
+  }
+
+  .inquiry_wrap .inquiry {
+    margin: 30px 0 0;
+  }
+  .inquiry_wrap .bbs {
+    padding: 24px 15px 10px;
+  }
+  .inquiry_wrap .bbs .write th,
+  .inquiry_wrap .bbs .write td {
+    width: 100%;
+  }
+  .inquiry_wrap .bbs .write td input[type="text"],
+  .inquiry_wrap .bbs .write td select {
+    max-width: 100%;
+    font-size: 14px;
+  }
+  .inquiry_wrap .bbs .agree {
+    padding: 8px 0 0;
+  }
+  .inquiry_wrap .bbs .agree a {
+    display: block;
+    margin: 15px 0 0;
+    padding: 12px 0 10px;
+  }
+  .inquiry_wrap .bbs .btnSet {
+    margin-top: 5px;
+  }
+  .inquiry_wrap .bbs .write td .inquiry_type .radio_wrap label {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .complete_wrap .sub_wrap {
+    padding: 60px 0 0;
+  }
+  .complete_wrap .complete img {
+    max-width: 329px;
+    width: 80%;
+  }
+  .complete_wrap .complete p {
+    font-size: 16px;
+    margin: 26px 0 0;
+  }
+  .complete_wrap .complete table {
+    margin: 35px 0 0;
+  }
+  .complete_wrap .complete table + .btnSet {
+    margin: 40px 0 0;
+  }
+  .complete_wrap .complete .btnSet {
+    margin: 35px 0 0;
+  }
+
+  .radio_wrap label {
+    font-size: 16px;
+  }
+  .radio_wrap label .bullet {
+    width: 20px;
+    height: 20px;
+    top: 2px;
+  }
+
+  .inquiry_wrap .bbs .btnSet .btn,
+  .complete_wrap .complete .btnSet .btn,
+  #sub.welfaretool .index .sec1 .btnSet .btn,
+  #sub.welfaretool .item .btnSet .btn {
+    width: 100%;
+  }
+
+  #sub.welfaretool .index .sec1 h3 {
+    font-size: 14px;
+  }
+
+  #sub.welfaretool .index .sec1 {
+    padding: 4px 0 0;
+  }
+  #sub.welfaretool .index .sec1 ul {
+    margin: 33px 0 0;
+  }
+  #sub.welfaretool .index .sec1 ul li div p {
+    font-size: 16px;
+  }
+  #sub.welfaretool .index .sec2 {
+    margin: 40px 0 0;
+  }
+
+  #sub.welfaretool .salary .sec1 table.table_form tbody tr th,
+  #sub.welfaretool .salary .sec1 table.table_form tbody tr td {
+    padding: 10px;
+    font-size: 12px;
+  }
+  #sub.welfaretool .salary .sec1 table.table_form tbody tr td ul li {
+    padding: 0 0 0 15px;
+  }
+  #sub.welfaretool .salary .sec1 table.table_form tbody tr td ul li:before {
+    width: 7px;
+    top: 5px;
+  }
+  #sub.welfaretool .salary .sec1 table.table_form tbody tr td dl dd {
+    width: 100%;
+    border-top: 1px solid #dce0dd;
+    border-left: 0;
+  }
+  #sub.welfaretool .salary .sec1 table.table_form tbody tr td dl dt + dd {
+    border: 0;
+  }
+
+  #sub.welfaretool .salary .sec2 h3 {
+    font-size: 14px;
+    width: 90%;
+  }
+  #sub.welfaretool .salary .sec2 .sec2_con {
+    padding: 20px;
+  }
+  #sub.welfaretool .salary .sec2 dl {
+    font-size: 12px;
+  }
+  #sub.welfaretool .salary .sec2 dl dd {
+    padding-left: 15px;
+  }
+  #sub.welfaretool .salary .sec2 dl dd:before {
+    width: 7px;
+    top: 5px;
+  }
+  #sub.welfaretool .salary .sec2 dl dd ul.inner_list li {
+    width: 33.33%;
+  }
+  #sub.welfaretool .salary .sec2 dl dd ul.inner_list li:nth-child(5) {
+    border-left: 0;
+  }
+  #sub.welfaretool .salary .sec2 dl dd ul.inner_list li:nth-child(3),
+  #sub.welfaretool .salary .sec2 dl dd ul.inner_list li:nth-child(6) {
+    border-right: 1px solid #ececec;
+  }
+  #sub.welfaretool .salary .sec2 dl dd.no_bullet {
+    padding-left: 15px;
+  }
+  #sub.welfaretool .salary .sec2 dl dd span {
+    font-size: 12px;
+  }
+
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr th,
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr td {
+    padding: 10px;
+    font-size: 12px;
+  }
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr td ul li,
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr td dl dd,
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr td p {
+    padding-left: 15px;
+  }
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr td ul li:before,
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr td dl dd:before,
+  #sub.welfaretool .procedure .sec1 table.table_form tbody tr td p:before {
+    width: 7px;
+    top: 5px;
+  }
+
+  #sub.welfaretool .intro .sec1 .img_wrap > div div p + h3 {
+    margin: 12px 0 0;
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap > div div p {
+    margin: 4px 0 0;
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0101 a {
+    font-size: 16px;
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0101 div {
+    padding: 140px 30px 30px 30px;
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0102 div {
+    padding: 170px 30px 30px 30px;
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0103 div {
+    padding: 160px 30px 30px 30px;
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0104 div {
+    padding: 180px 30px 30px 30px;
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0101 div {
+    /* background: #fff url(/img/welfaretool/welfaretool_intro0101.png) no-repeat center top 30px; */
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0102 div {
+    /* background: #fff url(/img/welfaretool/welfaretool_intro0102.png) no-repeat center top 30px; */
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0103 div {
+    /* background: #fff url(/img/welfaretool/welfaretool_intro0103.png) no-repeat center top 30px; */
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap > div.sec0104 div {
+    /* background: #fff url(/img/welfaretool/welfaretool_intro010401.png) no-repeat center top 30px; */
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap > div div h3 {
+    font-size: 14px;
+  }
+  #sub.welfaretool .intro .sec1 .img_wrap > div div p {
+    font-size: 12px;
+  }
+
+  .item_view_wrap .item_view_detail {
+    font-size: 16px;
+  }
+}
+
+.rg-upside-firstDiv {
+  margin-right: 17%;
+  position: absolute;
+  right: 0;
+  /* padding-bottom: 54px; */
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: flex-end;
+  /* padding: 110px 0 74px; */
+  max-width: 16.3333%;
+  flex-basis: 16.3333%;
+  box-sizing: border-box;
+}
+
+.rg-upside-secondDiv {
+  line-height: 1.57143;
+  letter-spacing: 0;
+  font-family: Noto Sans KR, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  flex-direction: row;
+  padding-bottom: 16px;
+  display: flex;
+}
+
+.rg-upside-thirdDiv {
+  width: 50px;
+  height: 36x;
+  padding-right: 8px;
+}
+.rg-upside-fifthDiv {
+  background: transparent;
+  border: 0;
+  color: #06c;
+  font-size: inherit;
+  line-height: "inherit";
+  font-weight: inherit;
+  letter-spacing: inherit;
+  padding: 0;
+  vertical-align: inherit;
+  cursor: pointer;
+  font-family: Noto Sans KR, sans-serif;
+}
+
+.rg-douwnside-firstDiv {
+  line-height: 1.57143;
+  letter-spacing: 0;
+  font-family: Noto Sans KR, sans-serif;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 10px;
+}
+.rg_firtDiv {
+  font-family: Noto Sans KR, sans-serif;
+  text-align: center;
+}
+.rg_firstText {
+  display: block;
+  color: #7b7b7b;
+  font-size: 18px;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.rg_btnDiv {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 40px;
+}
+.rg_cssBtn {
+  font-size: 20px;
+  line-height: 24px;
+  width: 150px;
+  height: 70px;
+  font-weight: 700;
+  color: black;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 12px;
+  position: relative;
+}
+
+.firstDiv {
+  min-height: 400px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 980px; */
+  background-color: rgb(224 224 224 / 50%);
+}
+
+.secondDiv {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 100%;
+  margin-bottom: 100px;
+}
+.lf-firstDiv {
+  margin-left: 14%;
+  padding: 110px 0 80px;
+  flex-basis: 66.66667%;
+  box-sizing: border-box;
+}
+
+.lf-firstH1 {
+  line-height: 1.1875;
+  letter-spacing: 0;
+  font-size: 48px;
+  font-weight: 600;
+  display: inline;
+  font-style: normal;
+  color: black;
+  font-family: "NotoSans KR, sans-serif";
+}
+
+.lf-secondDiv {
+  line-height: 1.1875;
+  letter-spacing: 0;
+  font-family: "Noto Sans KR, sans-serif";
+  color: #6e6e73;
+  font-size: 48px;
+  font-weight: 600;
+  display: inline;
+}
