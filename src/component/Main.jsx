@@ -4,25 +4,25 @@ import "../asset/detail.css";
 import "../asset/contents.css";
 
 const Main = () => {
-  useEffect(() => {
-    const opacityImage = document.querySelector(".scroll-opacity");
+  // useEffect(() => {
+  //   const opacityImage = document.querySelector(".scroll-opacity");
 
-    const callback = ([entry], observer) => {
-      entry.target.style.opacity = entry.intersectionRatio;
-    };
+  //   const callback = ([entry], observer) => {
+  //     entry.target.style.opacity = entry.intersectionRatio;
+  //   };
 
-    const observer = new IntersectionObserver(callback, {
-      threshold: [...new Array(101)].map((_, i) => i / 100),
-    });
+  //   const observer = new IntersectionObserver(callback, {
+  //     threshold: [...new Array(101)].map((_, i) => i / 100),
+  //   });
 
-    observer.observe(opacityImage);
-  }, []);
+  //   observer.observe(opacityImage);
+  // }, []);
 
   return (
     // <div
     //   className={scrollPosition > 600 ? "scrolled-opacity" : "scroll-opacity"}
     // >
-    <div className="scroll-opacity">
+    <div className="scroll-opacity" id="firstDiv">
       <div>
         <div
           className="section sec1 fp-section fp-table active fp-completely"

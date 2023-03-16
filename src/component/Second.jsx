@@ -17,7 +17,7 @@ const Second = () => {
     observer.observe(opacityImage);
   }, []);
   return (
-    <div className="scroll-opacity2">
+    <div className="scroll-opacity2" id="secondDiv">
       <div
         className="section sec3 sc fp-section fp-table active fp-completely"
         id="section3"

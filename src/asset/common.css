@@ -1515,3 +1515,7 @@ input[type="button"] {
   opacity: 0;
   /* transition: "opacity 500ms , visibility 500ms"; */
 }
+
+html {
+  scroll-behavior: smooth;
+}

@@ -4,54 +4,57 @@ const Footer = () => {
   return (
     <div>
       <div className="top">
-        <div className="size ">
-          <div className="inner clear">
-            <div className="left">
-              <p className="clear">
-                <b>대표번호</b>
-                <span className="num">1566-6597</span>
-              </p>
-            </div>
-            <div className="left time">
-              <p>
-                <b>상담가능시간</b>
-                <span>
+        <div
+          className="size "
+          style={{ borderTop: "1px solid #e4e4e4", paddingTop: 15 }}
+        >
+          <div
+            className="inner clear"
+            style={{ borderBottom: "1px solid #e4e4e4" }}
+          >
+            <strong className="footerTitle">청솔재가노인센터</strong>
+            <div className="left" style={{ paddingTop: 20 }}>
+              <p className="clear" style={{ height: "25px" }}>
+                <b style={{ paddingRight: 10 }}>대표번호</b>
+                <span className="num" style={{ paddingRight: 20 }}>
+                  1234-5678
+                </span>
+                <b style={{ paddingRight: 10 }}>상담가능시간</b>
+                <span style={{ paddingRight: 20 }}>
                   월요일 ~ 토요일 &nbsp;&nbsp;09 : 00 ~ 18 : 00 ( 이후 유선 상담
                   )
                 </span>
                 <span>일요일 &nbsp;&nbsp;유선상담 가능</span>
               </p>
             </div>
-
-            <div className="sns clear">
-              {/* <a href="javascript:;"></a>
-              <a href="https://blog.naver.com/alpacochae" target="_blank"></a> */}
-            </div>
           </div>
         </div>
       </div>
-      <div className="info">
+      <div className="info" style={{ paddingTop: 10 }}>
         <div className="size">
           <div className="inner">
-            <b>웰더스 시니어 케어</b>
             <p>
-              <span>경기도 성남시 분당구 장안로 39, 한일빌딩 5층 (분당동)</span>
+              <span style={{ paddingRight: 20 }}>
+                서울특별시 동작구 상도로47길 12
+              </span>
               <em className="mbr">
-                <span>T. 1566-6597</span>
+                <span style={{ paddingRight: 20 }}>T. 1234-5678</span>
               </em>
               <em className="mbr">
-                <span>사업자번호 :239-88-01492</span>
-                <span>대표자 : 박미례</span>
+                <span style={{ paddingRight: 20 }}>
+                  사업자번호 :000-00-000000
+                </span>
+                <span style={{ paddingRight: 20 }}>대표자 : 김현정</span>
               </em>
             </p>
-            <span className="copy">
-              Copyright(c) 2019 WELDERS. All Rights reserved.
+            <span className="copy" style={{ paddingBottom: 20 }}>
+              Copyright(c) 2023 Chungsol. All Rights reserved.
             </span>
 
-            <div className="util clear">
+            {/* <div className="util clear">
               <a href="/member/agree.php">이용약관</a>
               <a href="/member/policy.php">개인정보취급방침</a>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
