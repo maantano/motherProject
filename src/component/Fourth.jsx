@@ -26,7 +26,6 @@ const Fourth = () => {
           <div className="lf-firstDiv">
             <h1 className="lf-firstH1">부담.</h1>
             <div className="lf-secondDiv">
-              {/* 좋아하는 카드를 발급하는 가장 좋은 방법 */}
               덜어낼수 있는 가장 빠른 방법 <br />
               가족처럼 도와드리겠습니다.
             </div>
@@ -39,15 +38,6 @@ const Fourth = () => {
           </div>
 
           <div className="rg-upside-firstDiv">
-            {/* <div className="rg_firtDiv">
-              <h3 className="rg_firstText">
-                내게 맞는 카드상품, 비교하기 힘드시죠?
-                <strong>쉽고 정확하게 비교합니다.</strong>
-              </h3>
-            </div>
-            <div className="rg_btnDiv">
-              <button className="rg_cssBtn">카드 검색</button>
-            </div> */}
             <div
               className="container"
               style={{ marginLeft: "80%", paddingTop: "3.5rem" }}

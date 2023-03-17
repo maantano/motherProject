@@ -8,6 +8,7 @@ import Home from "./pages/Home";
 import Center2 from "./pages/center/Center2";
 import Center3 from "./pages/center/Center3";
 import Introduce from "./pages/introduce/Introduce";
+import Detail from "./pages/introduce/Detail";
 
 const Router = () => {
   return (
@@ -16,6 +17,7 @@ const Router = () => {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/introduce" element={<Introduce />} />
+          <Route path="/detail" element={<Detail />} />
           <Route path="/center" element={<Center1 />} />
           <Route path="/center2" element={<Center2 />} />
           <Route path="/center3" element={<Center3 />} />

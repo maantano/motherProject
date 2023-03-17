@@ -3,6 +3,7 @@ import React from "react";
 import img1 from "../../../asset/img/main_bg1.jpeg";
 import Header from "../../../Header/Header";
 import CenterVisual from "./CenterVisual";
+import Footer from "../../../component/Footer";
 const Center1 = () => {
   return (
     <div className="visitingcare info_vn">
@@ -177,10 +178,10 @@ const Center1 = () => {
               >
                 (2023년 기준)
               </p>
-              <ul className="clear">
+              <ul className="clear" style={{ height: 300 }}>
                 <li>
                   <span>이용료 안내 (단위 : 원)</span>
-                  <div>
+                  <div style={{ height: "260px" }}>
                     <table class="inner_table">
                       <colgroup>
                         <col width="20%" />
@@ -243,7 +244,7 @@ const Center1 = () => {
                 </li>
                 <li>
                   <span>등급별 재가급여 월 한도액 (단위 : 원)</span>
-                  <div>
+                  <div style={{ height: "260px" }}>
                     <table className="inner_table">
                       <colgroup>
                         <col width="10%" />
@@ -303,7 +304,7 @@ const Center1 = () => {
           <div className="sec6 sec">
             <h3 className="sub_t">이용절차</h3>
             <div className="step">
-              <ul className="clear">
+              <ul className="clear" style={{ height: "150px" }}>
                 <li>
                   <div
                     className="con"
@@ -533,6 +534,7 @@ const Center1 = () => {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 };
